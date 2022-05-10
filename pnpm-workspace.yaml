@@ -1,0 +1,6 @@
+packages:
+  - "apis/*"
+  - "apps/*"
+  - "examples/*"
+  - "packages/*"
+  - "protocols/*"
